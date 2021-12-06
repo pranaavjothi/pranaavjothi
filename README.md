@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranaavjothi
-- 👀 I’m interested in Electronics
+- 👀 I’m interested in VLSI
 - 📫 Contact id : pranaavjothi@gmail.com
 
 <!---
